@@ -84,7 +84,7 @@
     "eslint-plugin-storybook": "^0.11.6",
     "eslint-plugin-testing-library": "^6.5.0",
     "husky": "^9.1.7",
-    "markdownlint-cli": "^0.44.0",
+    "markdownlint-cli": "^0.45.0",
     "memlab": "^1.1.57",
     "prettier": "^3.5.3",
     "semver": "^7.7.1",
